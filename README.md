@@ -1,9 +1,6 @@
 ---
 title: "Laravel Payment Gateway Integration"
-description: "A comprehensive guide and implementation for integrating PayPal, Stripe, Razorpay, and more using Laravel."
-author: "Elite Dev Emon"
-date: "2024-11-25"
-version: "1.0.0"
+author: "Elite Dev Emon, elitedevemon, elitedev_emon"
 tags: Laravel, Payment Gateway Integration, API Development, PHP
 ---
 
@@ -18,16 +15,6 @@ This project provides a complete guide to integrating payment gateways like **Pa
 - [Usage](#usage)  
 - [License](#license) 
 
-## Features  
-
-- Seamless integration of popular payment gateways like **PayPal**, **Stripe**, **Mollie**, and **Razorpay**.  
-- Secure and scalable payment processing with **Laravel Framework**.  
-- Comprehensive API documentation for smooth implementation. 
-
-## License 
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" alt="EliteDev Emon|elitedevemon|elitedev_emon"></a></p>
 
@@ -36,7 +23,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 MD Emon Hassan, known as Elite Dev Emon, is a skilled Full-Stack Web Designer and Developer with a specialization in Laravel web application development. With 4 years of professional experience in the industry, Emon is proficient in creating custom web solutions that meet diverse client needs. He has extensive expertise in Laravel framework, API integrations, payment gateway setups, and model relationships, including advanced concepts like polymorphic relationships.
 
-Emon is also an adept WordPress Theme Customization Developer, offering tailor-made solutions to enhance website performance and aesthetics. With a passion for technology and programming, he consistently delivers high-quality work, as evidenced by 5-star client reviews on Fiverr.
+Emon is also an adept WordPress Theme Customization Developer, offering tailor-made solutions to enhance website performance and aesthetics. With a passion for technology and programming, he consistently delivers high-quality work, as evidenced by 5-star client reviews.
 
 Driven by a commitment to learning, Emon is continuously expanding his skill set to include Alphalete Limiting, Queue, Task Scheduling, and Azure systems. His goal is to establish a professional brand, build his own development team, and create impactful projects that add value to businesses and society.
 
@@ -124,3 +111,7 @@ I believe every great project starts with a conversation. Let’s discuss your g
 ## Special Offer:
 
 I’m currently offering a free consultation for businesses looking to optimize or develop their websites. If you’re ready to take your online presence to the next level, let’s connect and make it happen!
+
+## License 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
