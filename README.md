@@ -1,6 +1,6 @@
 ---
 title: "Laravel Payment Gateway Integration"
-author: "Elite Dev Emon, elitedevemon, elitedev_emon"
+author: "Elite Dev Emon | elitedevemon | elitedev_emon"
 tags: Laravel, Payment Gateway Integration, API Development, PHP
 ---
 
