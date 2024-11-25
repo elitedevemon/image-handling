@@ -12,7 +12,7 @@ tags: Laravel, Payment Gateway Integration, API Development, PHP
 This project provides a complete guide to integrating payment gateways like **PayPal**, **Stripe**, **Razorpay**, and others using **Laravel**. Perfect for developers seeking efficient and secure solutions.
 
 ## Table of Contents  
-- [About EliteDev Emon](#introduction)  
+- [About EliteDev Emon](#about_elitedev_emon)  
 - [Features](#features)  
 - [Installation](#installation)  
 - [Usage](#usage)  
