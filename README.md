@@ -4,11 +4,7 @@ description: "A comprehensive guide and implementation for integrating PayPal, S
 author: "Elite Dev Emon"
 date: "2024-11-25"
 version: "1.0.0"
-tags: 
-  - Laravel
-  - Payment Gateway Integration
-  - API Development
-  - PHP
+tags: Laravel, Payment Gateway Integration, API Development, PHP
 ---
 
 # Laravel Payment Gateway Integration: PayPal, Stripe, Razorpay, and More  
@@ -31,14 +27,6 @@ This project provides a complete guide to integrating payment gateways like **Pa
 ## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-
-## FAQ  
-
-### Can I use this project with Laravel 9?  
-Yes, the integration works with **Laravel 8.x and 9.x**.  
-
-### Which payment gateways are supported?  
-This project supports **PayPal**, **Stripe**, **Razorpay**, **Mollie**, and others.  
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" alt="EliteDev Emon|elitedevemon|elitedev_emon"></a></p>
