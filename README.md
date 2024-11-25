@@ -1,17 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" style="border-radius:50% !important;" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="250" height="250" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+## About EliteDev Emon
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+MD Emon Hassan, known as Elite Dev Emon, is a skilled Full-Stack Web Designer and Developer with a specialization in Laravel web application development. With 4 years of professional experience in the industry, Emon is proficient in creating custom web solutions that meet diverse client needs. He has extensive expertise in Laravel framework, API integrations, payment gateway setups, and model relationships, including advanced concepts like polymorphic relationships.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+Emon is also an adept WordPress Theme Customization Developer, offering tailor-made solutions to enhance website performance and aesthetics. With a passion for technology and programming, he consistently delivers high-quality work, as evidenced by 5-star client reviews on Fiverr.
+
+Driven by a commitment to learning, Emon is continuously expanding his skill set to include Alphalete Limiting, Queue, Task Scheduling, and Azure systems. His goal is to establish a professional brand, build his own development team, and create impactful projects that add value to businesses and society.
+
+- - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
