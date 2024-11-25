@@ -10,7 +10,7 @@ Emon is also an adept WordPress Theme Customization Developer, offering tailor-m
 Driven by a commitment to learning, Emon is continuously expanding his skill set to include Alphalete Limiting, Queue, Task Scheduling, and Azure systems. His goal is to establish a professional brand, build his own development team, and create impactful projects that add value to businesses and society.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
-- - - [Powerful dependency injection container](https://laravel.com/docs/container).
+--- [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
