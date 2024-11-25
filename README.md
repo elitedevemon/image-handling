@@ -1,4 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="250" height="250" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" alt="Laravel Logo"></a></p>
+>>>>>>> 1d215e1a687c5632b7ae6813791e31b770a581cf
 
 
 ## About EliteDev Emon
