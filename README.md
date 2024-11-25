@@ -1,5 +1,4 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" alt="Laravel Logo"></a></p>
->>>>>>> 1d215e1a687c5632b7ae6813791e31b770a581cf
 
 
 ## About EliteDev Emon
@@ -10,7 +9,7 @@ Emon is also an adept WordPress Theme Customization Developer, offering tailor-m
 
 Driven by a commitment to learning, Emon is continuously expanding his skill set to include Alphalete Limiting, Queue, Task Scheduling, and Azure systems. His goal is to establish a professional brand, build his own development team, and create impactful projects that add value to businesses and society.
 
-- - [Simple, fast routing engine](https://laravel.com/docs/routing).
+  - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
